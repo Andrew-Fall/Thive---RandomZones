@@ -1,0 +1,19 @@
+{
+    "Name": "Random Zones",
+    "InternalName": "RandomZones",
+    "Author": "JohnAnderson",
+    "Version": "1.2",
+    "Description": "Randomizes zones so they are not all the same.",
+    "LongDescription": "Currently zones of the same type have the exact same compound concentrations. This mod makes it so they vary.",
+    "Icon": "Icon.png",
+    "InfoUrl": null,
+    "License": "MIT",
+    "RecommendedThriveVersion": "0.6.1.0",
+    "MinimumThriveVersion": "0.6.0.0",
+    "MaximumThriveVersion": "",
+    "PckToLoad": "",
+    "ModAssembly": "RandomZones.dll",
+    "AssemblyModClass": "RandomZoneMod",
+    "UseAutoHarmony": false,
+    "RequiresRestart": false
+}
